@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color: black ;
+}
+
+input{
+    background-color: white;
+    border-color: black;
+}
+
+label{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+form{
+    background-color: gray;
+}
+
+button{
+    background-color: white;
+    border-color: black;
+}
+
+::placeholder{
+    color: black;
+}
